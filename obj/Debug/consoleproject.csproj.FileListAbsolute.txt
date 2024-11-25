@@ -1,0 +1,7 @@
+C:\Users\sabel\OneDrive\Documents\c# projects\consoleproject\obj\Debug\consoleproject.csproj.AssemblyReference.cache
+C:\Users\sabel\OneDrive\Documents\c# projects\consoleproject\obj\Debug\consoleproject.csproj.CoreCompileInputs.cache
+C:\Users\sabel\OneDrive\Documents\c# projects\consoleproject\bin\Debug\consoleproject.exe.config
+C:\Users\sabel\OneDrive\Documents\c# projects\consoleproject\bin\Debug\consoleproject.exe
+C:\Users\sabel\OneDrive\Documents\c# projects\consoleproject\bin\Debug\consoleproject.pdb
+C:\Users\sabel\OneDrive\Documents\c# projects\consoleproject\obj\Debug\consoleproject.exe
+C:\Users\sabel\OneDrive\Documents\c# projects\consoleproject\obj\Debug\consoleproject.pdb
